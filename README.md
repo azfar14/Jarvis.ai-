@@ -7,5 +7,6 @@ I have written all the code in my repo
 
 ## API Key 
 1. Open Openai on your computer.
-2. Sign in
+2. Sign in with your account
+
 
